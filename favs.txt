@@ -1,0 +1,4 @@
+Fav Fruit:	Apple
+Fav Pie:	Blueberry
+Fav Book:	Anathem
+Fav Bad Thing:	Garfield
