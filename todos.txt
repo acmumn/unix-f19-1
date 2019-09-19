@@ -1,0 +1,6 @@
+TODOS
+-----
+
+ - [ ] Add something nice to README.md
+ - [ ] Check this box
+ - [ ] Upload a Garfield picture
